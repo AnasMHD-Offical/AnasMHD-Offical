@@ -89,9 +89,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnasMHD-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasMHD-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnasMHD-Offical&theme=dark" alt="an-as006" /></p>
-<img align="right" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnasMHD-Offical&theme=dark" alt="an-as006" />
+<img align="center" alt="Coder GIF" height=200 width=200   style="border-radius:50%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></p>
 
+###
+
+###
 <h2 align="left">📌Quotes</h2> <hr/>
             <div class="container">
                 <h3> Think Differently &amp; Makes Differences.</h3>
