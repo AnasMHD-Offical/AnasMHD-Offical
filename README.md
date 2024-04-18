@@ -86,10 +86,10 @@
 <h3>📊Github Stats</h3>
 <hr/>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anasmhd-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=An-As006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasMHD-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasMHD-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-as006&theme=dark" alt="an-as006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnasMHD-Offical&theme=dark" alt="an-as006" /></p>
 
 <h2 align="left">📌Quotes</h2> <hr/>
             <div class="container">
@@ -99,6 +99,6 @@
             <br/>
 
 <h3>🏆 Github Trophies</h3> <hr/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-as006&theme=darkhub" alt="an-as006" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnasMHD-Offical&theme=darkhub" alt="an-as006" /></a> </p>
 
 
