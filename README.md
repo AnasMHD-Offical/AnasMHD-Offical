@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anas Muhammed</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas Muhammed!;" />
+</h1>
 <h3 align="center">Founder & CEO at Founder Fie ⭐ | Innovative Software Developer | Transforming Challenges into Digital Solutions | Self-Taught Tech Enthusiast</h3>
 
 
